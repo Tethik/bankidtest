@@ -1,0 +1,11 @@
+main {
+  margin: 100px auto;
+  width: 700px;
+  background-color: #fff;
+  border: 1px silver solid;
+  padding: 50px;
+}
+
+body {
+  background-color: #3498db;
+}
